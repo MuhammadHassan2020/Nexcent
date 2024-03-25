@@ -1,0 +1,77 @@
+@media screen and (max-width: 485px) {
+
+    html{
+        font-size: 70%;
+    }
+    .navbar {
+        margin: 0px 20px;
+    }
+    .nav-links li a {
+        margin-left: 43px;
+    }
+    .button{
+        font-size: 1.2rem !important;
+    }
+    .hero_img {
+        width: 84%;
+    }
+    .hero .button {
+        margin-top: 0px;
+    }
+    .hero_left>p {
+        margin: 25px 0;
+        line-height: 20px;
+    }
+    .clients {
+        gap: 30px;
+    }
+    .community_text {
+        min-width: 294px;
+    }
+    .unlock2_img {
+        width: 60% !important;
+    }
+    .unlock_img {
+        width: 75%;
+    }
+    .achieve_card {
+        gap: 5px;
+    }
+    .customer_left {
+        width: 89%;
+        min-width: 314px;
+    }
+    .right_inside img {
+        width: 6.5%;
+        min-width: 35px;
+    }
+    .frame {
+        min-width: 331px;
+    }
+    .frame h1 {
+        font-size: 3.1rem;
+    }
+    .footer_right {
+        flex-wrap: wrap;
+        gap: 35px;
+        width: 61%;
+    }
+
+    .footer_left p {
+        line-height: 25px;
+        text-align: center;
+    }
+    .right1,
+    .right2{
+     width: 40%;
+    }
+    .right3 {
+        width: 94%;
+    }
+    .footer_left {
+        align-items: center;
+        width: 77%;
+    }
+
+
+}

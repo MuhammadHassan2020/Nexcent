@@ -1,0 +1,24 @@
+@media screen and (max-width: 1023px) {
+
+    html{
+        font-size: 80%;
+    }
+    .nav-links {
+        width: 57%;
+    }
+    .navbar {
+        gap: 50px;
+    }
+    .achieve_right {
+        gap: 20px;
+    }
+    .right3 img{
+        display: none;
+      }
+     .customer_main {
+         gap: 66px;
+    }
+    .customer_left img {
+        min-width: 250px;
+    }
+}

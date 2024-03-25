@@ -1,0 +1,21 @@
+
+@media screen and (max-width: 1280px) {
+
+    html{
+        font-size: 90%;
+    }
+    .navbaar .button{
+        padding: 12.74px 10.27px;
+    }
+    .achieve_right {
+        gap: 50px;
+    }
+    
+    .card_text2 .button {
+       
+        font-size: 1.1rem;
+    }
+    .right3 img{
+      display: none;
+    }
+}
